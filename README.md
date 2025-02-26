@@ -76,12 +76,15 @@
 
 <div align="center">
   <img height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2IweG1zY3FjMTR4YWNtb2IwMmZ0NThocmhtZXpoOWo2MmE2aHQ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
+  <img height="60" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZueTFyNGg2dTlvaDU2cjJrZGZibmZydTM1d3NtNnUzMjkzZnVqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LeoTiTo/LeoTiTo/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
