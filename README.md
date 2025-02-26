@@ -15,7 +15,7 @@
 ###
 
 
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 
 ###
@@ -82,6 +82,7 @@
 
 ###
 <div align="center">
+    <h2>🐍 My Contributions 🐍</h2>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leotito/leotito/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leotito/leotito/output/github-snake.svg" />
