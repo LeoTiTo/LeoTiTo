@@ -1,19 +1,26 @@
-<h2 align="left">Xin chào👋! I'm Loc, a computer science student 👨‍💻 :</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LeoTiTo.LeoTiTo" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+Italia+Moderna&size=30&duration=3000&pause=1000&color=1FF71A&center=true&vCenter=true&width=500&height=70&lines=Xin+chào+👋!;I'm+Loc+;A+computer+science+student+👨‍💻" />
+</h1>
 
 <div align="center" >
     <img height="90" width="90" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpyNWV4dXpwYnN4aGxqOHhzY2djd3JvaHRjYXZzbjF5a2ppMmR5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiykPw9tgdOylwFgUe/giphy.gif">
     <img height="90" width="90" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG91Mjkya3Z1c3p5ZzQ1a2RhNG5pc3RiamU2YTVtMjJ1YzV4bnJiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iI4YsRrxiHXwjMX1j3/giphy.gif">
 </div>
-    <p align="left">🔎 Currently looking for an internship in IT development specializing in web development for a minimum duration of 8 weeks <br>📖 Studying at IUT de Paris - Rives de Seine | Université Paris Cité 🇫🇷.</p>
+
+<p align="center">🔎 Currently looking for an internship in IT development specializing in web development for a minimum duration of 8 weeks <br>📖 Studying at IUT de Paris - Rives de Seine | Université Paris Cité 🇫🇷.</p>
+    
+
+###
+
+
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 
 
 ###
 
-<h3 align="left">Tech Stack:</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=d3" height="30" alt="d3js logo"  />
@@ -76,12 +83,13 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leotito/leotito/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leotito/leotito/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/leotito/leotito/output/github-snake.svg" />
+    </picture>
+</div>
 
 ###
 
