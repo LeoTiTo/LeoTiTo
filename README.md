@@ -1,8 +1,12 @@
-<h2 align="left">Xin chào👋! My name is Loc and I am a computer science student at IUT de Paris - Rives de Seine | Université Paris Cité.</h2>
+<h2 align="left">Xin chào👋! I'm Loc, a computer science student 👨‍💻 :</h2>
 
-###
+<div align="center" >
+    <img height="60" width="60" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpyNWV4dXpwYnN4aGxqOHhzY2djd3JvaHRjYXZzbjF5a2ppMmR5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiykPw9tgdOylwFgUe/giphy.gif">
+    <img height="60" width="60" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG91Mjkya3Z1c3p5ZzQ1a2RhNG5pc3RiamU2YTVtMjJ1YzV4bnJiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iI4YsRrxiHXwjMX1j3/giphy.gif">
+    <img height="60" width="60" src="https://media.giphy.com/media/6EQQhEeDL1KySoFcn5/giphy.gif?cid=790b7611asfhy9feyvem5txeh6zpf7tpkptuwdnpausvwkum&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</div>
+    <p align="left">🔎 Currently looking for an internship in IT development specializing in web development for a minimum duration of 8 weeks <br>📖 Studying at IUT de Paris - Rives de Seine | Université Paris Cité 🇫🇷.</p>
 
-<p align="left">Currently looking for an internship in IT development specializing in web development for a minimum duration of 8 weeks</p>
 
 ###
 
@@ -74,17 +78,17 @@
 
 ###
 
-<div align="center">
-  <img height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2IweG1zY3FjMTR4YWNtb2IwMmZ0NThocmhtZXpoOWo2MmE2aHQ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
-  <img height="60" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZueTFyNGg2dTlvaDU2cjJrZGZibmZydTM1d3NtNnUzMjkzZnVqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+###
+
+<div align="center">
+  <img height="120" width="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZueTFyNGg2dTlvaDU2cjJrZGZibmZydTM1d3NtNnUzMjkzZnVqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+  <img height="120" width="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2IweG1zY3FjMTR4YWNtb2IwMmZ0NThocmhtZXpoOWo2MmE2aHQ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
+</div>
 
 ###
