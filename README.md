@@ -12,9 +12,9 @@
 </div>
 
 <div align="center"> 
-🔭 I’m currently working on **a donation application**
-🌱 Currently learning about **Node.js, React, Firebase, Tailwind...** 
-🔎 Currently seeking for **an internship in IT development specializing in web development** for a minimum duration of 8 weeks 
+🔭 I’m currently working on a donation application<br/>
+🌱 Currently learning about Node.js, React, Firebase, Tailwind... <br/>
+🔎 Currently seeking for an internship in IT development specializing in web development for a minimum duration of 8 weeks 
 </div>
 
 
