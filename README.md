@@ -12,9 +12,9 @@
 </div>
 
 <div align="center"> 
-🔭 I’m currently working on a donation application<br/>
-🌱 Currently learning about Node.js, React, Firebase, Tailwind... <br/>
-🔎 Currently seeking for an internship in IT development specializing in web development for a minimum duration of 8 weeks 
+🔭 I’m currently working at Addeus IA, an AI company that simplifies digital communication.<br/>
+🌱 Currently learning about Angular, Docker, Google Cloud Platform. <br/>
+🔎 Currently seeking a work-study contract in web development for my third year of the Bachelor’s degree in Computer Science at IUT Paris – Rives de Seine, starting September 2025, on a 3-days-in-company / 2-days-in-training schedule. 
 </div>
 
 
@@ -27,6 +27,7 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" alt="vuejs logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=d3" height="30" alt="d3js logo"  />
