@@ -12,7 +12,7 @@
 </div>
 
 <div align="center"> 
-🔭 I’m currently working at Addeus IA, an AI company that simplifies digital communication.<br/>
+🔭 I worked at Addeus IA, an AI company that simplified digital communication.<br/>
 🌱 Currently learning about Angular, Docker, Google Cloud Platform. <br/>
 🔎 Currently seeking a work-study contract in web development for my third year of the Bachelor’s degree in Computer Science at IUT Paris – Rives de Seine, starting September 2025, on a 3-days-in-company / 2-days-in-training schedule. 
 </div>
