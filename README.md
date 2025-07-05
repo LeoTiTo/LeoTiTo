@@ -14,7 +14,7 @@
 <div align="center"> 
 🔭 I worked at Addeus IA, an AI company that simplified digital communication.<br/>
 🌱 Currently learning about Angular, Docker, Google Cloud Platform. <br/>
-🔎 Currently seeking a work-study contract in web development for my third year of the Bachelor’s degree in Computer Science at IUT Paris – Rives de Seine, starting September 2025, on a 3-days-in-company / 2-days-in-training schedule. 
+🔎 Currently seeking a work-study contract in web development for my third year of the Bachelor’s degree in Computer Science at IUT Paris – Rives de Seine, starting September 2025, with a 3-days-in-company / 2-days-at-school weekly rhythm. 
 </div>
 
 
@@ -77,6 +77,16 @@
 
 ###
 
+<h2 align="center">🚀 Check Out My Latest Projects</h2>
+
+<div align="center" style="font-size: 20px; line-height: 2;">
+  <a href="https://meteoto.netlify.app" target="_blank"><strong>🌤️ Météoto</strong></a><br />
+  <a href="https://ayaq-candidature.netlify.app" target="_blank"><strong>💼 Candidature chez AYAQ</strong></a><br />
+  <a href="https://leotito.github.io/LyMakeArt_Portfolio" target="_blank"><strong>🎨 LyMakeArt_Porfolio</strong></a>
+</div>
+
+###
+
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
     <picture>
@@ -89,8 +99,8 @@
 ###
 
 <div align="center">
-  <img height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZueTFyNGg2dTlvaDU2cjJrZGZibmZydTM1d3NtNnUzMjkzZnVqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
-  <img height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2IweG1zY3FjMTR4YWNtb2IwMmZ0NThocmhtZXpoOWo2MmE2aHQ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
+    <img height="120" width="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2IweG1zY3FjMTR4YWNtb2IwMmZ0NThocmhtZXpoOWo2MmE2aHQ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
+    <img height="120" width="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG02NGJpbWM4ZjdhdTg0MDV1dWRnNmlzdTgxMnB6M2tkMHF3OXhiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mxxNisHDoWMxhvQCN4/giphy.gif"  />
 </div>
 
 ###
