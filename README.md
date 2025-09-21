@@ -23,7 +23,7 @@
 
 <div align="center" style="font-size: 20px; line-height: 2;">
   🎨<a href="https://leotito.github.io/LyMakeArt_Portfolio" target="_blank"><strong>LyMakeArt_Porfolio (Client)</strong></a><br />  
-  🌏<a href="https://lasourceduvietnam.netlify.app/" target="_blank"><strong>La Source du Vietnam (Client)</strong></a>  
+  🌏<a href="https://lasourceduvietnam.netlify.app/" target="_blank"><strong>La Source du Vietnam (Client)</strong></a><br /> 
   🌤️<a href="https://meteoto.netlify.app" target="_blank"><strong>Météoto</strong></a><br />
   💼<a href="https://ayaq-candidature.netlify.app" target="_blank"><strong>Candidature chez AYAQ</strong></a><br />
 </div>
