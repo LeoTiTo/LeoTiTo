@@ -11,15 +11,24 @@
     <img height="90" width="90" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG91Mjkya3Z1c3p5ZzQ1a2RhNG5pc3RiamU2YTVtMjJ1YzV4bnJiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iI4YsRrxiHXwjMX1j3/giphy.gif">
 </div>
 
-<div align="center"> 
-🔭 I worked at Addeus IA, an AI company that simplified digital communication.<br/>
+<div align="center">
+💼 Currently a working student as Assistant Project Manager & Web E-commerce Developer at <a href="https://ayaq.com/" target="_blank"><strong>AYAQ</strong></a>.<br/>
+🔭 I worked at <a href="https://www.addeus.ai/" target="_blank"><strong>Addeus IA</strong></a>, an AI company that simplified digital communication.<br/>
 🌱 Currently learning about Angular, Docker, Google Cloud Platform. <br/>
-🔎 Currently seeking a work-study contract in web development for my third year of the Bachelor’s degree in Computer Science at IUT Paris – Rives de Seine, starting September 2025, with a 3-days-in-company / 2-days-at-school weekly rhythm. 
 </div>
-
 
 ###
 
+<h2 align="center">🚀 Check Out My Latest Works</h2>
+
+<div align="center" style="font-size: 20px; line-height: 2;">
+  🎨<a href="https://leotito.github.io/LyMakeArt_Portfolio" target="_blank"><strong>LyMakeArt_Porfolio (Client)</strong></a><br />  
+  🌏<a href="https://lasourceduvietnam.netlify.app/" target="_blank"><strong>La Source du Vietnam (Client)</strong></a>  
+  🌤️<a href="https://meteoto.netlify.app" target="_blank"><strong>Météoto</strong></a><br />
+  💼<a href="https://ayaq-candidature.netlify.app" target="_blank"><strong>Candidature chez AYAQ</strong></a><br />
+</div>
+
+###
 
 <h2 align="center"> ⚙️ Tech Stack Breakdown ⚙️ </h2>
 
@@ -73,16 +82,6 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="adobeillustrator logo" />
   <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="adobeaftereffects logo" />
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="30" alt="adobepremierepro logo" />
-</div>
-
-###
-
-<h2 align="center">🚀 Check Out My Latest Projects</h2>
-
-<div align="center" style="font-size: 20px; line-height: 2;">
-  🌤️<a href="https://meteoto.netlify.app" target="_blank"><strong>Météoto</strong></a><br />
-  💼<a href="https://ayaq-candidature.netlify.app" target="_blank"><strong>Candidature chez AYAQ</strong></a><br />
-  🎨<a href="https://leotito.github.io/LyMakeArt_Portfolio" target="_blank"><strong>LyMakeArt_Porfolio</strong></a>
 </div>
 
 ###
